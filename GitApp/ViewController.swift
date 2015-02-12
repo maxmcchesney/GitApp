@@ -8,9 +8,7 @@
 
 import UIKit
 
-// adding a new feature
-
-// adding a not complete feature
+// all features complete
 
 class ViewController: UIViewController {
 
